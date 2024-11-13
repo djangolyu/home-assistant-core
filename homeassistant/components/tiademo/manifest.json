@@ -1,0 +1,15 @@
+{
+  "domain": "tiademo",
+  "name": "TIA DEMO",
+  "codeowners": [
+    "@djangolyu"
+  ],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/tiademo",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
